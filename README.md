@@ -1,28 +1,26 @@
-# Rain Fall -Prediction
+# Rain Fall Predictor
+
 A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset
-# Website Link: ["https://rainy-brain.herokuapp.com/"](https://rainy-brain.herokuapp.com/)
 
-# Testing values
+## Flow Chart
+![Flow Chart](https://github.com/Dipesh20/car-price-prediction/blob/master/IO%20screenshot/FlowChart.PNG?raw=true)
 
-# Rainy Day: 
-![Predictor Values for Rainy Day](githubimgs/predictor.png)
-# Sunny Day:
-![Predictor Values for Sunny Day](githubimgs/predictor1.png)
+## IO Screenshot
+Input Screenshot
 
-# Some screenshots of the app
-* Landing Page:
-![Landing Page](githubimgs/landingpage.png)
-* About Rainy Brain:
-![About](githubimgs/about.png)
-* Dashboard:
-![Dashboard](githubimgs/dashboard.png)
-* Developer:
-![Developer](githubimgs/developer.png)
-* Predictor:
-![Predictor](githubimgs/predictor.png)
-* Result:
-![Result](githubimgs/result.png)
+![Input Screenshot](https://github.com/Dipesh20/car-price-prediction/blob/master/IO%20screenshot/Input%20Screenshot.PNG?raw=true)
 
+Output Screenshot
 
+![Input Screenshot](https://github.com/Dipesh20/car-price-prediction/blob/master/IO%20screenshot/Output%20Screenshot.PNG?raw=true)
+  
+## Link to Web Application
 
+[Click Here](https://rainfall-predictor.herokuapp.com/)
 
+  
+## Authors
+
+- [Dipesh Jindal](https://github.com/Dipesh20/RainFall-Predictor)
+
+  
