@@ -1,6 +1,6 @@
 # Rain Fall Predictor
 
-A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset
+A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset.
 
 ## Flow Chart
 ![Flow Chart](https://github.com/Dipesh20/RainFall-Predictor/blob/master/images/FlowChart.PNG?raw=true)
