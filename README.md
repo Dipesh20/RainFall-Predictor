@@ -8,11 +8,11 @@ A project on predicting whether it will rain tomorrow or not by using the Rainfa
 ## IO Screenshot
 Input Screenshot
 
-![Input Screenshot](https://github.com/Dipesh20/car-price-prediction/blob/master/IO%20screenshot/Input%20Screenshot.PNG?raw=true)
+![Input Screenshot](https://github.com/Dipesh20/RainFall-Predictor/blob/master/images/predictor.png?raw=true)
 
 Output Screenshot
 
-![Input Screenshot](https://github.com/Dipesh20/car-price-prediction/blob/master/IO%20screenshot/Output%20Screenshot.PNG?raw=true)
+![Input Screenshot](https://github.com/Dipesh20/RainFall-Predictor/blob/master/images/result.png?raw=true)
   
 ## Link to Web Application
 
